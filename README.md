@@ -5,7 +5,7 @@
 ___
 
 ## Features
-
+* Removes the "254n_m" backdoor
 * Prevent lag machines 
 * Prevent all crash exploits that i know of
 * Prevent ChunkBan
